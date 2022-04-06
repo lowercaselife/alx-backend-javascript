@@ -1,4 +1,4 @@
-# 0x0F. ES6 Promises
+# 0x01-ES6 Promises
 
 ## Resources:books:
 Read or watch:
