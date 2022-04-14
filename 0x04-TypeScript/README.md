@@ -1,5 +1,5 @@
-# 0x00. Typescript
-:open_file_folder: Specializations - Web Stack programming ― Back-End
+# 0x04. Typescript
+:open_file_folder: Specializations - Web Stack programming ― Back-End 
 :bust_in_silhouette: By Johann Kerbrat, Engineering Manager at Uber Works  
 :copyright: **[ALX-Holberton School](https://alx-intranet.hbtn.io/)**  
 :bookmark: classes | functions | generic types | interfaces | namespaces | nominal typing | typescript
